@@ -2,7 +2,7 @@ export default {
   namespaced: true,
   state: () => ({
     name: 'YOON',
-    email: 'skfriday@naver,com',
+    email: 'skfriday@naver.com',
     blog: 'https://nacodings.tistory.com/',
     phone: '+82-10-8762-2521',
     // image: 'https://heropy.blog/css/images/logo.png'
